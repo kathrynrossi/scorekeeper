@@ -1,2 +1,2 @@
 # scorekeeper
-kathrynrossi.github.io/scorekeeper
+https://kathrynrossi.github.io/scorekeeper
